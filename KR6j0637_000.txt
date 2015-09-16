@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說息除賊難陀羅尼經
+#+DATE: 2015-08-30 20:36:52.597563
+#+PROPERTY: JUAN 0
