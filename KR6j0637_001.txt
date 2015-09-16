@@ -1,21 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:36:52.375968
+#+DATE: 2015-08-30 20:36:53.139855
 #+TITLE: 佛說息除賊難陀羅尼經
 #+PROPERTY: CBETA_ID T21n1405
 #+PROPERTY: ID KR6j0637
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1405
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6j0637_T_001-0921c> 
 #+PROPERTY: JUAN 1
 ¶
-No.1405¶
-
- 佛說息除賊難陀羅尼經¶
+No. 1405¶
+佛說息除賊難陀羅尼經¶
 ¶
-西天譯經三藏朝散大夫試光祿卿¶
-明教大師臣法賢奉　詔譯¶
+三藏法師¶
+法賢奉　詔譯¶
 
 如是我聞。一時佛在摩伽陀國。與諸大眾圍¶
 繞經行。到於菴羅樹園側韋提呬山帝釋巖¶
