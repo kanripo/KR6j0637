@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:36:52.853604
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:41
 #+TITLE: 佛說息除賊難陀羅尼經
 #+PROPERTY: CBETA_ID T21n1405
 #+PROPERTY: ID KR6j0637
